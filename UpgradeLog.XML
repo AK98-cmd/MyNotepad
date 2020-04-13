@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="project3">
+</Property><Property Name="Solution File" Value="F:\C#\Projects\NotepadProject\project3.sln">
+</Property><Property Name="User Options File" Value="F:\C#\Projects\NotepadProject\project3.suo">
+</Property><Property Name="Date" Value="Sunday, September 21, 2014">
+</Property><Property Name="Time" Value="13:51 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="project3.sln" Description="File successfully backed up as F:\C#\Projects\NotepadProject\backup\Backup\project3.sln">
+</Event><Event ErrorLevel="0" Project="" Source="project3.suo" Description="File successfully backed up as F:\C#\Projects\NotepadProject\backup\Backup\project3.suo">
+</Event><Event ErrorLevel="0" Project="project3" Source="project3\project3.csproj" Description="Project file successfully backed up as F:\C#\Projects\NotepadProject\backup\Backup\project3\project3.csproj">
+</Event><Event ErrorLevel="0" Project="project3" Source="project3\Form1.cs" Description="File successfully backed up as F:\C#\Projects\NotepadProject\backup\Backup\project3\Form1.cs">
+</Event><Event ErrorLevel="0" Project="project3" Source="project3\Form1.Designer.cs" Description="File successfully backed up as F:\C#\Projects\NotepadProject\backup\Backup\project3\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="project3" Source="project3\Find.cs" Description="File successfully backed up as F:\C#\Projects\NotepadProject\backup\Backup\project3\Find.cs">
+</Event><Event ErrorLevel="0" Project="project3" Source="project3\Find.Designer.cs" Description="File successfully backed up as F:\C#\Projects\NotepadProject\backup\Backup\project3\Find.Designer.cs">
+</Event><Event ErrorLevel="0" Project="project3" Source="project3\Program.cs" Description="File successfully backed up as F:\C#\Projects\NotepadProject\backup\Backup\project3\Program.cs">
+</Event><Event ErrorLevel="0" Project="project3" Source="project3\Properties\AssemblyInfo.cs" Description="File successfully backed up as F:\C#\Projects\NotepadProject\backup\Backup\project3\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="project3" Source="project3\Properties\Resources.Designer.cs" Description="File successfully backed up as F:\C#\Projects\NotepadProject\backup\Backup\project3\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="project3" Source="project3\Properties\Settings.Designer.cs" Description="File successfully backed up as F:\C#\Projects\NotepadProject\backup\Backup\project3\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="project3" Source="project3\Properties\Settings.settings" Description="File successfully backed up as F:\C#\Projects\NotepadProject\backup\Backup\project3\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="project3" Source="project3\Find.resx" Description="File successfully backed up as F:\C#\Projects\NotepadProject\backup\Backup\project3\Find.resx">
+</Event><Event ErrorLevel="0" Project="project3" Source="project3\Form1.resx" Description="File successfully backed up as F:\C#\Projects\NotepadProject\backup\Backup\project3\Form1.resx">
+</Event><Event ErrorLevel="0" Project="project3" Source="project3\Properties\Resources.resx" Description="File successfully backed up as F:\C#\Projects\NotepadProject\backup\Backup\project3\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="project3" Source="project3\project3.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="project3" Source="project3\project3.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="project3.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="project3.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="project3" Source="project3\project3.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

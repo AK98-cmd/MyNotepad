@@ -1,0 +1,19 @@
+D:\Proiecte\Notepad - Copy (2)\project3\bin\Debug\RichTextBoxFind.xml
+D:\Proiecte\Notepad - Copy (2)\project3\obj\Debug\Notepad.csproj.GenerateResource.Cache
+D:\Proiecte\Notepad - Copy (2)\project3\obj\Debug\Notepad.csprojResolveAssemblyReference.cache
+D:\Proiecte\Notepad - Copy (2)\project3\obj\Debug\Notepad.Find.resources
+D:\Proiecte\Notepad - Copy (2)\project3\obj\Debug\Notepad.MainForm.resources
+D:\Proiecte\Notepad - Copy (2)\project3\obj\Debug\Notepad.Goto.resources
+D:\Proiecte\Notepad - Copy (2)\project3\obj\Debug\Notepad.Properties.Resources.resources
+D:\Proiecte\Notepad - Copy (2)\project3\obj\Debug\Notepad.Replace.resources
+D:\Proiecte\Notepad - Copy (2)\project3\bin\Debug\Notepad.exe.config
+D:\Proiecte\Notepad - Copy (2)\project3\bin\Debug\Notepad.exe
+D:\Proiecte\Notepad - Copy (2)\project3\bin\Debug\Notepad.pdb
+D:\Proiecte\Notepad - Copy (2)\project3\obj\Debug\Notepad.exe
+D:\Proiecte\Notepad - Copy (2)\project3\obj\Debug\Notepad.pdb
+D:\Proiecte\Notepad - Copy (2)\Notepad\bin\Debug\Notepad.exe.config
+D:\Proiecte\Notepad - Copy (2)\Notepad\obj\Debug\Notepad.exe
+D:\Proiecte\Notepad - Copy (2)\Notepad\obj\Debug\Notepad.pdb
+D:\Proiecte\~~~\Notepad\Notepad\bin\Debug\Notepad.exe.config
+D:\Proiecte\~~~\Notepad\Notepad\obj\Debug\Notepad.exe
+D:\Proiecte\~~~\Notepad\Notepad\obj\Debug\Notepad.pdb
